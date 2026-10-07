@@ -1,0 +1,576 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "WWWW",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 12,
+          "Position": 1,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+          "TeamName": "San Francisco 49ers",
+          "GoalsAgainst": 64,
+          "GoalDifference": 58
+        },
+        {
+          "Form": "WWWW",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 12,
+          "Position": 2,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+          "TeamName": "Kansas City Chiefs",
+          "GoalsAgainst": 77,
+          "GoalDifference": 41
+        },
+        {
+          "Form": "WWWW",
+          "Wins": 4,
+          "Draws": 0,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 12,
+          "Position": 3,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+          "TeamName": "Minnesota Vikings",
+          "GoalsAgainst": 51,
+          "GoalDifference": 35
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 4,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+          "TeamName": "Jacksonville Jaguars",
+          "GoalsAgainst": 53,
+          "GoalDifference": 51
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 5,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+          "TeamName": "Chicago Bears",
+          "GoalsAgainst": 65,
+          "GoalDifference": 47
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 6,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+          "TeamName": "Seattle Seahawks",
+          "GoalsAgainst": 73,
+          "GoalDifference": 32
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 7,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+          "TeamName": "Las Vegas Raiders",
+          "GoalsAgainst": 84,
+          "GoalDifference": 31
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 8,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+          "TeamName": "Buffalo Bills",
+          "GoalsAgainst": 107,
+          "GoalDifference": 20
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 9,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+          "TeamName": "Baltimore Ravens",
+          "GoalsAgainst": 96,
+          "GoalDifference": 20
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 10,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+          "TeamName": "New York Giants",
+          "GoalsAgainst": 79,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "WWW",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 10,
+          "Position": 11,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+          "TeamName": "Cleveland Browns",
+          "GoalsAgainst": 95,
+          "GoalDifference": -14
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 12,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+          "TeamName": "Carolina Panthers",
+          "GoalsAgainst": 109,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 13,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+          "TeamName": "Cincinnati Bengals",
+          "GoalsAgainst": 85,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 14,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+          "TeamName": "Dallas Cowboys",
+          "GoalsAgainst": 112,
+          "GoalDifference": 10
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 15,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+          "TeamName": "Atlanta Falcons",
+          "GoalsAgainst": 92,
+          "GoalDifference": 4
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 16,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+          "TeamName": "Los Angeles Rams",
+          "GoalsAgainst": 83,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 17,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+          "TeamName": "Indianapolis Colts",
+          "GoalsAgainst": 104,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 18,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+          "TeamName": "Detroit Lions",
+          "GoalsAgainst": 127,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 19,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+          "TeamName": "Pittsburgh Steelers",
+          "GoalsAgainst": 87,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 20,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+          "TeamName": "New England Patriots",
+          "GoalsAgainst": 77,
+          "GoalDifference": -12
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 21,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+          "TeamName": "Philadelphia Eagles",
+          "GoalsAgainst": 93,
+          "GoalDifference": -18
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 22,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+          "TeamName": "Denver Broncos",
+          "GoalsAgainst": 94,
+          "GoalDifference": -20
+        },
+        {
+          "Form": "WW",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 8,
+          "Position": 23,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+          "TeamName": "Green Bay Packers",
+          "GoalsAgainst": 105,
+          "GoalDifference": -32
+        },
+        {
+          "Form": "W",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 6,
+          "Position": 24,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+          "TeamName": "New York Jets",
+          "GoalsAgainst": 84,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "W",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 6,
+          "Position": 25,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+          "TeamName": "New Orleans Saints",
+          "GoalsAgainst": 128,
+          "GoalDifference": -23
+        },
+        {
+          "Form": "W",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 6,
+          "Position": 26,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+          "TeamName": "Arizona Cardinals",
+          "GoalsAgainst": 117,
+          "GoalDifference": -30
+        },
+        {
+          "Form": "W",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 6,
+          "Position": 27,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+          "TeamName": "Washington Commanders",
+          "GoalsAgainst": 122,
+          "GoalDifference": -34
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 4,
+          "Position": 28,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+          "TeamName": "Tampa Bay Buccaneers",
+          "GoalsAgainst": 96,
+          "GoalDifference": -20
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 4,
+          "Position": 29,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+          "TeamName": "Houston Texans",
+          "GoalsAgainst": 109,
+          "GoalDifference": -25
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 4,
+          "Position": 30,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+          "TeamName": "Tennessee Titans",
+          "GoalsAgainst": 83,
+          "GoalDifference": -28
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 4,
+          "Position": 31,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+          "TeamName": "Los Angeles Chargers",
+          "GoalsAgainst": 106,
+          "GoalDifference": -39
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 4,
+          "Losses": 0,
+          "Played": 4,
+          "Points": 4,
+          "Position": 32,
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+          "TeamName": "Miami Dolphins",
+          "GoalsAgainst": 101,
+          "GoalDifference": -55
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "CompetitionName": "NFL"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": false
+  },
+  "CustomInterAds": [],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/us.png",
+      "CountryName": "United States",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tampa Bay Buccaneers",
+              "HomeTeam": "Dallas Cowboys",
+              "MatchTime": "October 8, 2026 - 8:15 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Philadelphia Eagles",
+              "HomeTeam": "Jacksonville Jaguars",
+              "MatchTime": "October 11, 2026 - 9:30 AM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cincinnati Bengals",
+              "HomeTeam": "Miami Dolphins",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Las Vegas Raiders",
+              "HomeTeam": "New England Patriots",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Minnesota Vikings",
+              "HomeTeam": "New Orleans Saints",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Cleveland Browns",
+              "HomeTeam": "New York Jets",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Indianapolis Colts",
+              "HomeTeam": "Pittsburgh Steelers",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Houston Texans",
+              "HomeTeam": "Tennessee Titans",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "New York Giants",
+              "HomeTeam": "Washington Commanders",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chicago Bears",
+              "HomeTeam": "Green Bay Packers",
+              "MatchTime": "October 11, 2026 - 1:00 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Denver Broncos",
+              "HomeTeam": "Los Angeles Chargers",
+              "MatchTime": "October 11, 2026 - 4:05 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Detroit Lions",
+              "HomeTeam": "Arizona Cardinals",
+              "MatchTime": "October 11, 2026 - 4:25 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "San Francisco 49ers",
+              "HomeTeam": "Seattle Seahawks",
+              "MatchTime": "October 11, 2026 - 4:25 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Baltimore Ravens",
+              "HomeTeam": "Atlanta Falcons",
+              "MatchTime": "October 11, 2026 - 8:20 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Buffalo Bills",
+              "HomeTeam": "Los Angeles Rams",
+              "MatchTime": "October 12, 2026 - 8:15 PM ET",
+              "AwayTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+              "HomeTeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"
+            }
+          ],
+          "CompetitionName": "NFL"
+        }
+      ]
+    }
+  ]
+}
